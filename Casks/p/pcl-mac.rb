@@ -1,6 +1,6 @@
 cask "pcl-mac" do
   version "1.0.0"
-  sha256 "e96df1326b7bbbf740175e60c6ee9edba38c81e163644d3ab060f391e1af44ac"
+  sha256 :no_check
 
   url "https://gitee.com/yizhimcqiu/homebrew-pcl-mac/raw/master/PCL-Mac-1.0.0.zip"
   name "PCL-Mac"
